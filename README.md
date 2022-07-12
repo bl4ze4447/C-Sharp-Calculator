@@ -11,7 +11,7 @@ A calculator that can handle basic arithmetic operations like:
 
 But also more useful operations like:
   - Absolute Value
-  - Euler number and PI
+  - Constants: Euler's number and PI
   - N Factorial (n!)
   - Log and LN
   - Ability to input decimal numbers
