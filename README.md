@@ -16,6 +16,8 @@ But also more useful operations like:
   - Log and LN
   - Ability to input decimal numbers
  
+ >(If you get the following error: "Couldn't process file Form1.resx due to its being in the Internet or Restricted zone or having the mark of the web on the file. Remove the mark of the web if you want to process these files." then please go <a href="https://stackoverflow.com/questions/51348919/couldnt-process-file-resx-due-to-its-being-in-the-internet-or-restricted-zone-o" target="_blank">see this link</a>!
+ 
 This version should be bug-free.
 
 
