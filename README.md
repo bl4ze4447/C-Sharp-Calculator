@@ -18,8 +18,7 @@ But also more useful operations like:
  
 This version should be bug-free.
 
-C# Source Code:
-
+>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ```
 using System;
 using System.Windows.Forms;
